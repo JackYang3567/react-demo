@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+yarn add react-router-dom react-router
+yarn add jquery
+
 In the project directory, you can run:
 
 ### `npm start`
